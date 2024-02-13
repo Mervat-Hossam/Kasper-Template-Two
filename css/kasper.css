@@ -409,7 +409,7 @@ header nav .menu{
 }
 
 @media(max-width: 767px){
-    .our_designs .image .img{
+    .our_designs .image img{
         display: none;
     }
 }
